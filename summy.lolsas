@@ -1,6 +1,6 @@
 canhaz summy canuze=IN;
-    donewifth UKPRN;
+    donewifth VAR;
     gimmeh gouze=OUT;
 kthxbye;
 
-canhaz goaway canuze=OUT goherez='OUTFILE'; kthxbye;
+canhaz goaway canuze=OUT goherez='PATH'; kthxbye;
